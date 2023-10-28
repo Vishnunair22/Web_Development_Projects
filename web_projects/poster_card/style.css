@@ -1,0 +1,22 @@
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 8%;
+}
+img {
+    width: 100%;
+    border: 10px solid;
+}
+#text {
+    text-align: center;
+    margin-top: 2%;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;    
+}
+p {
+   font-style: italic;
+   opacity: 0.5;
+   font-family: sans-serif;
+}
